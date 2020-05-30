@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPortalFunction", "WebPortalFunction\WebPortalFunction.csproj", "{899125E3-057E-40DE-81BF-0C4969DF339D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchFunctionTests", "WatchFunctionTests\WatchFunctionTests.csproj", "{B6CA568E-92AD-407C-96DB-860DA0DDA880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{899125E3-057E-40DE-81BF-0C4969DF339D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{899125E3-057E-40DE-81BF-0C4969DF339D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{899125E3-057E-40DE-81BF-0C4969DF339D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CA568E-92AD-407C-96DB-860DA0DDA880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CA568E-92AD-407C-96DB-860DA0DDA880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CA568E-92AD-407C-96DB-860DA0DDA880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CA568E-92AD-407C-96DB-860DA0DDA880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
